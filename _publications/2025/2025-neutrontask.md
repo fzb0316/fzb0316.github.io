@@ -12,8 +12,8 @@ abstract: >-
   In this work, we propose NeutronTask, a multi-GPU GNN training system that adopts GNN task parallelism. Instead of partitioning the graph structure, NeutronTask partitions training tasks in each layer across different GPUs, which significantly reduces neighbor replication. 
 cover:          /assets/images/covers/vldb-neutrontask.png
 authors:
-  - Zhenbo Fu*
-  - "<b style='font-weight:900;color:#000;'>Xin Ai*</b>"
+  - "<b style='font-weight:900;color:#000;'>Zhenbo Fu</b>"
+  - Xin Ai
   - Qiange Wang
   - Yanfeng Zhang
   - Shizhan Lu

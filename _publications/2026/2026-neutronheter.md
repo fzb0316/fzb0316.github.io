@@ -14,10 +14,10 @@ abstract: >-
 cover:          /assets/images/covers/sigmod-neutronheter.png
 authors:
   - Chunyu Cao*
-  - "<b style='font-weight:900;color:#000;'>Xin Ai*</b>"
+  - Xin Ai
   - Qiange Wang
   - Yanfeng Zhang
-  - Zhenbo Fu
+  - "<b style='font-weight:900;color:#000;'>Zhenbo Fu*</b>"
   - Hao Yuan
   - Mingyi Cao
   - Chaoyi Chen

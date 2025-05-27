@@ -12,13 +12,13 @@ abstract: >-
   We present NeutronTP, a load-balanced and efficient distributed full-graph GNN training system. NeutronTP leverages GNN tensor parallelism for distributed training, which partitions feature rather than graph structures. Compared to GNN data parallelism, NeutronTP eliminates cross-worker vertex dependencies and achieves a balanced workload.
 cover:          /assets/images/covers/vldb-neutrontp.png
 authors:
-  - "<b style='font-weight:900;color:#000;'>Xin Ai</b>"
+  - Xin Ai
   - Hao Yuan
   - Zeyu Ling
   - Xin Ai
   - Qiange Wang
   - Yanfeng Zhang
-  - Zhenbo Fu
+  - "<b style='font-weight:900;color:#000;'>Zhenbo Fu</b>"
   - Chaoyi Chen
   - Yu Gu
   - Ge Yu

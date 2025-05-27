@@ -15,10 +15,10 @@ authors:
   - Peizheng Li
   - Chaoyi Chen
   - Hao Yuan
-  - Zhenbo Fu
+  - "<b style='font-weight:900;color:#000;'>Zhenbo Fu</b>"
   - Xinbo Yang
   - Qiange Wang
-  - "<b style='font-weight:900;color:#000;'>Xin Ai</b>"
+  - Xin Ai
   - Yanfeng Zhang
   - Yingyou Wen
   - Ge Yu
