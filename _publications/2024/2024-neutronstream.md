@@ -1,6 +1,6 @@
 ---
 title:          "NeutronStream: A Dynamic GNN Training Framework with Sliding Window for Graph Streams"
-date:           203-09-15 00:01:00 +0800
+date:           2024-09-15 00:01:00 +0800
 selected:       true
 pub:            "Very Large Data Bases (VLDB)"
 # pub_pre:        "Submitted to "
