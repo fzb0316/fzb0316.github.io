@@ -22,6 +22,7 @@ authors:
   - Yu Gu
   - Ge Yu
 links:
+  Paper: https://www.vldb.org/pvldb/vol17/p455-chen.pdf
   Code: https://dl.acm.org/doi/pdf/10.14778/3632093.3632108
   Slides: https://idc-neu.github.io/slides/Neutronstream_VLDB24.pdf
 ---
