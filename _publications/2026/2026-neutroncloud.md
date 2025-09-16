@@ -1,7 +1,7 @@
 ---
 title:          "NeutronCloud: Resource-Aware Distributed GNN Training in Fluctuating Cloud Environments"
 date:           2026-02-01 00:01:00 +0800
-selected:       false
+selected:       true
 pub:            "Very Large Data Bases (VLDB)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
