@@ -1,6 +1,6 @@
 ---
 title:          "EvoRAG: Making KG-based RAG Automatically Evolve through Feedback Backpropagation"
-date:           2026-10-30 00:01:00 +0800
+date:           2027-5-15 00:01:00 +0800
 selected:       true
 pub:            "IEEE International Conference on Data Engineering"
 # pub_pre:        "Submitted to "
