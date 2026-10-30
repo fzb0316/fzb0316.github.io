@@ -1,7 +1,7 @@
 ---
 title:          "NeutronJittor: Efficient CPU-GPU Memory Management for GNN Training with Jittor"
 date:           2026-10-03 00:01:00 +0800
-selected:       false
+selected:       true
 pub:            "Fundamental Research"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
